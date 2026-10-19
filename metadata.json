@@ -1,0 +1,6 @@
+{
+  "name": "SegurosPAS Argentina",
+  "description": "Software completo de gestión de seguros para Argentina: clientes, vehículos, pólizas, vencimientos, siniestros y aseguradoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
